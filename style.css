@@ -1,3 +1,13 @@
+#intro {
+	border: 2px #777777 solid;
+}
+.spotlight {
+	background-color: #fefe22;
+}
+body {
+    background: white url(http://foureyes.github.io/mtec1002-spring2014/resources/img/lab-13-face.png) repeat top right;
+}
+
 p {
 	color: #0000ff;
 	text-decoration:line-through;
